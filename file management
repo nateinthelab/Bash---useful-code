@@ -1,0 +1,2 @@
+## rename multiple files at once, or remove part of file name for multiple files ##
+rename 's/removetext//;' *
